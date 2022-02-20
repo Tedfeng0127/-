@@ -1,4 +1,4 @@
-# 蝦皮 Back-end Engineer Intern 後端工程師實習生作品集
+# 程式碼作品集
 ## webCrawler_momoData.py
 #### 利用網頁爬蟲程式抓取momo購物網站上之冰箱資料，並將程式連接MySQL資料庫儲存資料。
 # 
