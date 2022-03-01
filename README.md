@@ -8,3 +8,5 @@
 ## webCrawler_designerData.py
 #### 利用網頁爬蟲程式抓取stylemap網站上之髮型設計師資料。
 #
+## get_customer.py
+### 透過華南金控API取得客戶資料
