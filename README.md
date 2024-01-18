@@ -1,6 +1,6 @@
 # Code Portfolio
 * ## [check_regulation_update.py](https://github.com/Tedfeng0127/Code-Portfolio/blob/main/check_regulation_update.py)
-  在瑞力登擔任資料工程實習生期間所開發的爬蟲程式，檢查環保署網站上和公司業務相關的法規是否有更新/新增，生成Excel檔並將檢查結果寫入。
+  在瑞力登擔任資料工程實習生期間所開發的爬蟲程式，以Python的requests和BeautifulSoup套件開發，用於檢查環保署網站上和公司業務相關的法規是否有更新/新增，生成Excel檔並將檢查結果寫入。
 #
 * ## [webCrawler_momoData.py](https://github.com/Tedfeng0127/Code-Portfolio/blob/main/webCrawler_momoData.py)
   利用網頁爬蟲程式抓取momo購物網上之冰箱資料，連接MySQL資料庫儲存資料。
